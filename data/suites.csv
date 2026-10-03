@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 03 19:19:27 UTC 2026","Sat Oct 03 19:19:27 UTC 2026","534","chromium","login.spec.ts","Login","","","standard user can login successfully",""
+"passed","Sat Oct 03 19:19:24 UTC 2026","Sat Oct 03 19:19:25 UTC 2026","1058","chromium","checkout.spec.ts","Checkout","","","User should be able to complete checkout",""
+"passed","Sat Oct 03 19:19:27 UTC 2026","Sat Oct 03 19:19:28 UTC 2026","438","chromium","login.spec.ts","Login","","","locked user cannot login",""
+"passed","Thu Oct 01 11:00:18 UTC 2026","Thu Oct 01 11:00:20 UTC 2026","2299","chromium","checkout.spec.ts","Checkout","","","user can login and complete checkout",""
